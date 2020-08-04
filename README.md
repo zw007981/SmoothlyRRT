@@ -4,4 +4,6 @@
 
 References：
 
-杜明博, 梅涛, 陈佳佳,等. 复杂环境下基于RRT的智能车辆运动规划算法[J]. 机器人, 2015(04):443-450。
+Wei K, Ren B. A method on dynamic path planning for robotic manipulator autonomous obstacle avoidance based on an improved RRT algorithm[J]. Sensors, 2018, 18(2): 571.
+
+Gómez-Bravo F, Cuesta F, Ollero A, et al. Continuous curvature path generation based on β-spline curves for parking manoeuvres[J]. Robotics and autonomous systems, 2008, 56(4): 360-372.
