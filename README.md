@@ -6,7 +6,7 @@
 
 单击鼠标左键添加障碍物（注意不可离起始位置和终止位置过近以免影响随机树生成），再次单击则停止添加；单击鼠标中键清空已有障碍物；单击鼠标右键开始生成轨迹。最终结果如下图所示。
 
-<img src="example.PNG" alt="曲线拟合" width=300>
+<img src="example.PNG" alt="生成的轨迹" width=666>
 
 
 ## Packages required
