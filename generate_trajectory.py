@@ -5,7 +5,7 @@ from rrt_algorithm import *
 
 # 生成一条从start到goal的路径并避开obstacles中的障碍物。
 def generate_trajectory(start, goal, obstacles):
-    # 样条曲线曲线必正切于第一条与最后一条控制线段，利用此性质将
+    # 样条曲线必正切于第一条与最后一条控制线段，利用此性质将
     # 起始点和终止点向各自延申一定长度，使得生成的样条曲线满足在两端的切线边界条件。
     [theta0, length0] = [THETA0, LENGTH0]
     [theta1, length1] = [THETA1, LENGTH1]

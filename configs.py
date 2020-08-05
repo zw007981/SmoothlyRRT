@@ -15,7 +15,6 @@ LENGTH1 = 15
 THETA_THRESHOLD = 0.5*math.pi
 NUM_POINTS = 100
 
-
 # 各种颜色对应的RGB值。
 BLACK = [0, 0, 0]
 WHITE = [255, 255, 255]
