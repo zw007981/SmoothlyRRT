@@ -8,7 +8,7 @@
 
 
 ## Packages required
-pygame, numpy, matplotlib
+pygame, numpy, matplotlib.
 
 ## References
 Wei K, Ren B. A method on dynamic path planning for robotic manipulator autonomous obstacle avoidance based on an improved RRT algorithm[J]. Sensors, 2018, 18(2): 571.
