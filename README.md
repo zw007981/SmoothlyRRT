@@ -1,4 +1,4 @@
-# continuous-curvature-RRT
+# Smoothly RRT
 基于B样条曲线的连续曲率RRT算法。
 
 
