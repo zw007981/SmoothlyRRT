@@ -1,5 +1,5 @@
 # Smoothly RRT
-基于B样条曲线的连续曲率RRT算法。
+基于RRT的连续曲率轨迹生成算法。。
 
 ## 使用
 在configs.py中设定好初始位置和终止位置等参数后，运行main.py。
