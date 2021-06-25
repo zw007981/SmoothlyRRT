@@ -1,6 +1,6 @@
-from B_spline import *
-from configs import *
-from rrt_algorithm import *
+from utils.B_spline import *
+from utils.configs import *
+from utils.rrt_algorithm import *
 
 
 # 生成一条从start到goal的路径并避开obstacles中的障碍物。

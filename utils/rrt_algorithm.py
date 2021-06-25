@@ -1,7 +1,7 @@
 import math
 import random
 
-from configs import *
+from utils.configs import *
 
 
 # 计算point1[x1, y1]到point2[x2, y2]的欧式距离。

@@ -8,7 +8,7 @@
 
 最终结果如下图所示，其中绿线是根据RRT生成的路径，红线是优化后得到的路径，其上红色的点为样条曲线的控制点，蓝线则为根据这些控制点计算得到的B样条曲线，也就是生成的轨迹。
 
-<img src="example.PNG" alt="生成的轨迹" width=666>
+<img src="docs/example.PNG" alt="生成的轨迹" width=666>
 
 
 ## Packages required

@@ -1,8 +1,8 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-from configs import *
-from rrt_algorithm import *
+from utils.configs import *
+from utils.rrt_algorithm import *
 
 
 # 根据控制点生成B样条曲线。

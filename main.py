@@ -1,10 +1,10 @@
 import pygame as pg
 from pygame.locals import *
 
-from B_spline import *
-from configs import *
-from generate_trajectory import *
-from rrt_algorithm import *
+from utils.B_spline import *
+from utils.configs import *
+from utils.generate_trajectory import *
+from utils.rrt_algorithm import *
 
 [START, GOAL] = [START_INIT, GOAL_INIT]
 
