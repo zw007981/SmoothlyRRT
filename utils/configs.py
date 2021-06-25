@@ -7,9 +7,6 @@ OBSTACLES_RADIUS = 20
 # 起点和终点。
 START_INIT = (30, 400)
 GOAL_INIT = (WIDTH-30, 400)
-[THETA0, THETA1] = [0 * math.pi / 180, 180 * math.pi / 180]
-LENGTH0 = 15
-LENGTH1 = 15
 
 # 随机树修正系数。
 THETA_THRESHOLD = 0.5*math.pi
